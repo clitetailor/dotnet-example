@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\dotnet\\dotnetapi\\dotnetapi.csproj": {}
+    "D:\\Code\\dotnet\\dotnet-example\\dotnetapi\\dotnetapi.csproj": {}
   },
   "projects": {
-    "D:\\Code\\dotnet\\dotnetapi\\dotnetapi.csproj": {
+    "D:\\Code\\dotnet\\dotnet-example\\dotnetapi\\dotnetapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\dotnet\\dotnetapi\\dotnetapi.csproj",
+        "projectUniqueName": "D:\\Code\\dotnet\\dotnet-example\\dotnetapi\\dotnetapi.csproj",
         "projectName": "dotnetapi",
-        "projectPath": "D:\\Code\\dotnet\\dotnetapi\\dotnetapi.csproj",
+        "projectPath": "D:\\Code\\dotnet\\dotnet-example\\dotnetapi\\dotnetapi.csproj",
         "packagesPath": "C:\\Users\\Clite Tailor\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\dotnet\\dotnetapi\\obj\\",
+        "outputPath": "D:\\Code\\dotnet\\dotnet-example\\dotnetapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Clite Tailor\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dgowyeJRfnGnrmhm7jXbZ04dYlf54eCRoLEJ3MZe3Vrpa5cbH0p1WglKCOLn5W/UyuH2AyLMIaC4USpE/1EF8Q==",
+  "dgSpecHash": "H7dE4jA3c5V0qurm8bXnxTskdlc0PL5oQjbAVt4qP+VYdld0ybRKbEr0BVuJBcTk8kIpG2Sy38+/lG+tP9k5Gw==",
   "success": true,
-  "projectFilePath": "D:\\Code\\dotnet\\dotnetapi\\dotnetapi.csproj",
+  "projectFilePath": "D:\\Code\\dotnet\\dotnet-example\\dotnetapi\\dotnetapi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Clite Tailor\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Clite Tailor\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
